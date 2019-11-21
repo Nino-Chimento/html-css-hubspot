@@ -150,7 +150,7 @@ main {
   height: 1200px;
 }
 .top-main{
-  width: 85%;
+  width: 75%;
   margin: auto;
   height: 400px;
 }
@@ -172,3 +172,30 @@ main {
   margin: auto;
   color: grey;
 }
+/* /top main */
+/* fre-hub */
+.free-hub{
+  width: 75%;
+  margin: auto;
+  background-color: white;
+  height: 300px;
+  text-align: center;
+}
+.free-hub-left{
+  float: left;
+  width: 30%;
+  background-color: yellow;
+  height: 300px;
+}
+.free-hub-right{
+  float: left;
+  width: 70%;
+  background-color: red;
+  height: 300px;
+}
+.free-hub-left img {
+  display: inline-block;
+  width: 50%;}
+  .free-hub-left a {
+    display: inline-block;
+  }
