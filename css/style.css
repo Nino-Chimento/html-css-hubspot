@@ -184,18 +184,29 @@ main {
 .free-hub-left{
   float: left;
   width: 30%;
-  background-color: yellow;
   height: 300px;
+  text-align: center;
 }
 .free-hub-right{
   float: left;
   width: 70%;
   background-color: red;
   height: 300px;
+
 }
 .free-hub-left img {
   display: inline-block;
-  width: 50%;}
-  .free-hub-left a {
-    display: inline-block;
-  }
+  width: 50%;
+  margin-bottom: 60px;
+  margin-top: 40px;
+}
+.free-hub-left a {
+  display: inline-block;
+  text-decoration: none;
+  line-height: 30px;
+  height: 40px;
+  background-color: #FF8F73;
+  border-radius: 4px;
+  color: white;
+  padding: 5px;
+}
