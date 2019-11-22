@@ -371,4 +371,37 @@ main {
 }
 .no-border-bottom {
   border-bottom: 0;
+  margin-bottom: 60px;
+}
+/* /banner blu */
+/* main bottom */
+.container-main-bottom{
+  width: 100%;
+  background-color: white;
+}
+.container-small-logo {
+  width: 75%;
+  margin: auto;
+  height: 400px;
+  background: white;
+}
+.big-number {
+  width:40%;
+  text-align: center;
+}
+
+.small-logo {
+  width: 60%;
+  height: 300px;
+  background-color: yellow;
+}
+
+.big-number h2{
+  color:black;
+}
+.big-number p {
+  color: lightblue;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: right;
 }
