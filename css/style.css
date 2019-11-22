@@ -432,15 +432,15 @@ main {
   width: 40%;
   margin-left: 10%;
   height: 300px;
+  margin-top: 60px;
 }
 
 .img-woman {
   width: 40%;
   margin-right: 10%;
-  height: 300px;
-  background-color: green;
-  text-align: left;
+  
 }
+
 .start h2{
   width: 80%;
   color:black;
@@ -475,4 +475,7 @@ main {
   width: 100%;
   font-size: 10px;
   color :#466795;
+}
+.img-woman img {
+  height: 400px;
 }
