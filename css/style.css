@@ -513,3 +513,20 @@ main {
   text-decoration: none;
   color: lightgrey;
 }
+.support {
+  display: inline-block;
+  border: 1px solid;
+  border-radius: 4px;
+  height: 40px;
+  width: 180px;
+  background-color: #EBEDEF;
+  padding: 5px;
+}
+.special {
+  line-height: 25px;
+  vertical-align: middle;
+}
+
+  .menu-footer a:hover {
+  color: blue;
+}
