@@ -408,15 +408,21 @@ main {
 }
 .small-logo img {
   width: 130px;
-  height: 25px;
 }
+
 
 .small-logo ul {
   list-style: none;
   margin-top: 85px;
 }
+
+
 .small-logo li {
   display: inline-block;
   padding: 20px;
+  vertical-align: middle;
 }
 /* /chiusura small logo */
+.container-img-woman {
+  width:
+}
