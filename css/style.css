@@ -309,6 +309,7 @@ main {
   border-radius: 4px;
   text-decoration: none;
   color: white;
+  margin-bottom: 30px;
 }
 .colon-central a:hover {
   cursor: pointer;
