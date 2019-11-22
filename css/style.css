@@ -391,7 +391,7 @@ main {
 }
 
 .small-logo {
-  width: 60%;
+  width: 50%;
   height: 300px;
   background-color: yellow;
 }
@@ -404,4 +404,20 @@ main {
   font-size: 18px;
   line-height: 25px;
   text-align: right;
+}
+.small-logo img {
+  /* height: 20px; */
+  width: 100px;
+}
+.small-logo ul {
+  list-style: none;
+  margin-top: 85px;
+}
+.small-logo li {
+  display: inline-block;
+
+  padding: 20px;
+}
+.second-small-logo {
+  margin-top: 20px;
 }
