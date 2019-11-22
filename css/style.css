@@ -71,12 +71,13 @@
   text-decoration: none;
   padding: 5px;
 }
-.log-in {
-  height: 30px;
+/* .boh {
+  background: #F5F8FA;
+  border: 1px solid #F5F8FA;
+  color:#F5F8FA;
+} */
 
-}
-
-
+/* WARNING: problema con log in */
 
 
 
@@ -152,8 +153,8 @@ h1 {
 main {
   width: 100%;
   background-color: #F5F8FA;
-  height: 1200px;
 }
+
 .top-main{
   width: 75%;
   margin: auto;
@@ -255,14 +256,16 @@ main {
   width: 75%;
   margin: auto;
   background-color:#F5F8FA;
+  margin-bottom: 60px;
 }
 
 .colon-central{
   width: 30%;
-  height: 600px;
   text-align: center;
   background: white;
+  margin-bottom: 50px;
 }
+
 
 .central {
   margin: 0 5%;
@@ -311,7 +314,51 @@ main {
   cursor: pointer;
 }
 /* /tre colonne */
+/* bannerone-blue */
+.banner-blue {
+  width: 100%;
+  background-color: #00B8A9;
+  text-align: center;
 
+}
 
-
-.
+.banner-blue h2 {
+  font-size: 35px;
+  width: 50%;
+  margin: auto;
+  color: white;
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+.banner-blue p{
+  color: white;
+  width: 52%;
+  margin:0  auto;
+  line-height: 25px;
+  font-size: 20px;
+  margin-bottom: 60px;
+}
+.box-number {
+  width: 75%;
+  margin:auto;
+  height:200px;
+  background-color: red;
+}
+.number {
+  width: 25%;
+  height:200px;
+  background-color: yellow;
+  text-align:center;
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+}
+.number img {
+  height: 60px;
+  margin-top: 40px;
+}
+.number h3{
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 40px;
+}
