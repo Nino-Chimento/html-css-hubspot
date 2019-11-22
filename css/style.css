@@ -528,7 +528,7 @@ main {
 }
 
   .menu-footer a:hover {
-  color: blue;
+  color: lightblue;
 }
 .contact {
   list-style: none;
@@ -542,6 +542,7 @@ main {
 .languages {
   width: 85%;
   margin: auto;
+  border-bottom: 1px solid lightblue;
 }
 
 .languages ul{
@@ -561,5 +562,41 @@ main {
   font-size: 20px;
 }
 .languages a:hover {
+  color: lightblue;
+}
+/* /footer top */
+.footer-botton{
+  width: 85%;
+  margin: auto;
+}
+
+.logo-footer {
+  width: 30%;
+}
+.logo-footer p{
+  color: lightgrey;
+}
+.logo-footer img {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.policy-footer {
+  width: 30%;
+}
+
+.policy-footer ul{
+  list-style: none;
+  margin-top: 40px;
+}
+.policy-footer li {
+  display: inline;
+  padding: 10px;
+  font-size: 20px;
+}
+.policy-footer a{
+  text-decoration: none;
+  color: lightgrey;
+}
+.policy-footer a:hover{
   color: lightblue;
 }
