@@ -342,16 +342,16 @@ main {
   width: 75%;
   margin:auto;
   height:200px;
-  background-color: red;
 }
+
 .number {
   width: 25%;
   height:200px;
-  background-color: yellow;
   text-align:center;
   border-bottom: 1px solid white;
   border-right: 1px solid white;
 }
+
 .number img {
   width: 100px;
   height: 60px;
@@ -365,4 +365,10 @@ main {
 }
 .number h6 {
   color: white;
+}
+.no-border-right{
+  border-right: 0px
+}
+.no-border-bottom {
+  border-bottom: 0;
 }
