@@ -539,3 +539,27 @@ main {
   font-size: 20px;
   color: lightgrey;
 }
+.languages {
+  width: 85%;
+  margin: auto;
+}
+
+.languages ul{
+  list-style: none;
+  text-align: center;
+  line-height: 100px;
+  vertical-align: middle;
+}
+.languages li {
+  display: inline;
+  padding: 15px;
+
+}
+.languages a {
+  text-decoration: none;
+  color: lightgrey;
+  font-size: 20px;
+}
+.languages a:hover {
+  color: lightblue;
+}
