@@ -184,7 +184,7 @@ main {
   margin: auto;
   background-color: white;
   height: 300px;
-
+  margin-bottom: 40px;
 }
 .free-hub-left{
   float: left;
@@ -251,3 +251,67 @@ main {
  color: #ff8f73;
 }
 /* pre float 3 colonne */
+.tre-colon {
+  width: 75%;
+  margin: auto;
+  background-color:#F5F8FA;
+}
+
+.colon-central{
+  width: 30%;
+  height: 600px;
+  text-align: center;
+  background: white;
+}
+
+.central {
+  margin: 0 5%;
+}
+.colon-central h2{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.colon-central img{
+  margin-top: 40px;
+}
+.colon-central p{
+  vertical-align: 20px;
+  width: 70%;
+  margin:  auto;
+  margin-bottom: 30px;
+}
+.colon-central h4{
+  margin: 20px 0;
+}
+.colon-central ul{
+  list-style: none;
+  text-align: left;
+}
+.colon-central li {
+  margin-left: 50px;
+}
+.colon-central i {
+  color: #FF7A59;
+  padding: 5px;
+}
+.colon-central a {
+  display: block;
+  vertical-align: middle;
+  height: 40px;
+  width: 130px;
+  margin: auto;
+  margin-top: 30px;
+  padding: 3px 5px;
+  background-color: #FF7A59;
+  border-radius: 4px;
+  text-decoration: none;
+  color: white;
+}
+.colon-central a:hover {
+  cursor: pointer;
+}
+/* /tre colonne */
+
+
+
+.
