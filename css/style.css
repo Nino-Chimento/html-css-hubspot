@@ -353,6 +353,7 @@ main {
   border-right: 1px solid white;
 }
 .number img {
+  width: 100px;
   height: 60px;
   margin-top: 40px;
 }
@@ -361,4 +362,7 @@ main {
   margin-top: 10px;
   margin-bottom: 10px;
   font-size: 40px;
+}
+.number h6 {
+  color: white;
 }
