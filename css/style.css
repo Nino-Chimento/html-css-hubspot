@@ -299,6 +299,7 @@ main {
 }
 .colon-central a {
   display: block;
+  line-height: 30px;
   vertical-align: middle;
   height: 40px;
   width: 130px;
