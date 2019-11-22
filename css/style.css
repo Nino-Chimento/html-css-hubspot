@@ -424,5 +424,55 @@ main {
 }
 /* /chiusura small logo */
 .container-img-woman {
-  width:
+  width:100%;
+  background-color: white;
+  height: 600px;
+}
+.start {
+  width: 40%;
+  margin-left: 10%;
+  height: 300px;
+}
+
+.img-woman {
+  width: 40%;
+  margin-right: 10%;
+  height: 300px;
+  background-color: green;
+  text-align: left;
+}
+.start h2{
+  width: 80%;
+  color:black;
+  margin-top: 0;
+  text-align: justify;
+  margin-left: 0;
+}
+
+.start h4 {
+  text-align: justify;
+  width: 80%;
+  color: #466795;
+  line-height: 25px;
+}
+.start a {
+  width: 250px;
+  height: 80px;
+  /* margin-left: 0; */
+  display: inline-block;
+  border-radius: 4px;
+  border: 1px solid;
+  background-color: #FF8F73;
+  text-decoration: none;
+  vertical-align: middle;line-height: 80px;
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.start p {
+  margin-top: 20px;
+  text-align: left;
+  width: 100%;
+  font-size: 10px;
+  color :#466795;
 }
