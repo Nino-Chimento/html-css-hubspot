@@ -404,6 +404,7 @@ main {
   font-size: 18px;
   line-height: 25px;
   text-align: right;
+  width: 30%;
 }
 .small-logo img {
   width: 130px;
@@ -416,6 +417,6 @@ main {
 }
 .small-logo li {
   display: inline-block;
-
   padding: 20px;
 }
+/* /chiusura small logo */
