@@ -530,3 +530,12 @@ main {
   .menu-footer a:hover {
   color: blue;
 }
+.contact {
+  list-style: none;
+}
+.contact li {
+  display: inline-block;
+  margin: 0 5px;
+  font-size: 20px;
+  color: lightgrey;
+}
