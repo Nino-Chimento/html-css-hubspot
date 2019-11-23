@@ -71,11 +71,13 @@
   text-decoration: none;
   padding: 5px;
 }
-/* .boh {
-  background: #F5F8FA;
-  border: 1px solid #F5F8FA;
-  color:#F5F8FA;
-} */
+.log {
+  background-color: #FFF8F6;
+  border: 1px solid #FF8F73;
+}
+  .top-left:first-child {
+    color: orange;
+  }
 
 /* WARNING: problema con log in */
 
